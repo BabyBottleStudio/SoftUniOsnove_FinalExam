@@ -1,0 +1,7 @@
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\bin\Debug\01_StringGame.exe.config
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\bin\Debug\01_StringGame.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\bin\Debug\01_StringGame.pdb
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\obj\Debug\01_StringGame.csproj.AssemblyReference.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\obj\Debug\01_StringGame.csproj.CoreCompileInputs.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\obj\Debug\01_StringGame.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\01_StringGame\obj\Debug\01_StringGame.pdb
