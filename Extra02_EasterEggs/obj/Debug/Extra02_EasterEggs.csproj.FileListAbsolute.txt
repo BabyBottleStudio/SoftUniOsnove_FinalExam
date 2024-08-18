@@ -1,0 +1,7 @@
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\bin\Debug\Extra02_EasterEggs.exe.config
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\bin\Debug\Extra02_EasterEggs.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\bin\Debug\Extra02_EasterEggs.pdb
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\obj\Debug\Extra02_EasterEggs.csproj.AssemblyReference.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\obj\Debug\Extra02_EasterEggs.csproj.CoreCompileInputs.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\obj\Debug\Extra02_EasterEggs.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\Extra02_EasterEggs\obj\Debug\Extra02_EasterEggs.pdb
