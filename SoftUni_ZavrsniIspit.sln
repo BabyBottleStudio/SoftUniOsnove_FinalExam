@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_StringGame", "01_StringGame\01_StringGame.csproj", "{F5B84AAF-D768-4085-8B34-BA8C6246FC67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_EncryptingPassword", "02_EncryptingPassword\02_EncryptingPassword.csproj", "{433A2E72-0C09-41CA-B522-B2A0DEE0DA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5B84AAF-D768-4085-8B34-BA8C6246FC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5B84AAF-D768-4085-8B34-BA8C6246FC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5B84AAF-D768-4085-8B34-BA8C6246FC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433A2E72-0C09-41CA-B522-B2A0DEE0DA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433A2E72-0C09-41CA-B522-B2A0DEE0DA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433A2E72-0C09-41CA-B522-B2A0DEE0DA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433A2E72-0C09-41CA-B522-B2A0DEE0DA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
