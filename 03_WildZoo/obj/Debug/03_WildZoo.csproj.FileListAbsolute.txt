@@ -1,0 +1,7 @@
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\bin\Debug\03_WildZoo.exe.config
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\bin\Debug\03_WildZoo.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\bin\Debug\03_WildZoo.pdb
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\obj\Debug\03_WildZoo.csproj.AssemblyReference.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\obj\Debug\03_WildZoo.csproj.CoreCompileInputs.cache
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\obj\Debug\03_WildZoo.exe
+Z:\C# Ucenje\SoftUni_OsnoveC#\ZAVRSNI_ISPIT\ZavrsniIspit\SoftUni_ZavrsniIspit\03_WildZoo\obj\Debug\03_WildZoo.pdb
